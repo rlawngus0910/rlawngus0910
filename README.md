@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 * 삼성 SDS 하계 알고리즘 특강 수료 (2021.07 ~ 2021.08)
 * '알고리즘' 교과목 TA (2021.09 ~ )
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlawngus0910&&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlawngus0910&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawngus0910)](https://solved.ac/rlawngus0910)
